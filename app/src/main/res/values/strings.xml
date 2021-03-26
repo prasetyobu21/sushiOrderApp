@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sushi Order App</string>
+    <string name="about_me">About Me</string>
+    <string name="developer_name">Prasetyo Budi Utomo</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="qty">1</string>
+    <string name="additional_note">Additional Note</string>
+    <string name="total_item_price">Total: 15.5$</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="buy">Buy</string>
+    <string name="restaurant_location">Festival Plaza</string>
+    <string-array name="menuCategory_array">
+        <item>All Menu</item>
+        <item>Main Course</item>
+        <item>Side Dish</item>
+        <item>Drinks</item>
+    </string-array>
+</resources>
